@@ -35,6 +35,7 @@ IntraAI is an intelligent chat platform that adapts to users' knowledge levels a
 - **Semantic Analysis**: Analyze text importance and semantic awareness
 - **Visualization**: Visual representation of word importance and context
 - **Alignment Signal**: Analyze the alignment signal of the text
+- **BERT Model**: The trained BERT model for alignment signal analysis is available for download at [Google Drive](https://drive.google.com/drive/folders/1JLTNRODBcqqpocvDntuOjmGlk1VMl7oD?usp=sharing)
 
 ## 💻 Local Quickstart
 
